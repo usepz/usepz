@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usepz
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps, GO, PHP
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me : usepzaka@gmail.com
 
